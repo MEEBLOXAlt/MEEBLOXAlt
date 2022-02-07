@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MEEBLOXAlt
 - 👀 I’m interested in games & coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning HTML, JS, PY
 - 💞️ I’m looking to collaborate on nothing...
 - 📫 How to reach me: YOU CAN'T MUAHAHAHA
 
